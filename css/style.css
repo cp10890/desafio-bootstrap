@@ -35,7 +35,7 @@ nav{
     align-items: start;
     flex-wrap: wrap;
     width: 100%;
-    margin: 20px 0;
+    padding: 20px;
 }
 .nosotros{
     text-align: justify;
@@ -44,7 +44,6 @@ nav{
 }
 .mapa{
     width: 45%;
-    min-width: 400px;
 }
 .mapa img{
     width: 100%;
@@ -53,10 +52,10 @@ nav{
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    margin: 20px 0;
+    padding: 20px;
 }
 .proyectos-index h2{
-    margin-left: 50px;
+    margin-left: 30px;
 }
 .img-index{
     display: flex;
